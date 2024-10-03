@@ -61,13 +61,13 @@ export default function Home() {
           <p className="text-lg text-center max-w-2xl mx-auto text-orange-400">
             Flower Paradise is your one-stop destination for all your floral
             needs. From fresh bouquets to custom arrangements, we aim to bring a
-            touch of nature's beauty to your life.At Flower Paradise, we believe
+            touch of nature beauty to your life.At Flower Paradise, we believe
             that flowers have the power to bring joy and beauty into every
             moment. Established in 2021, our passion for floristry drives us
             to provide the freshest, handpicked blooms for all occasions.
-            Whether you're celebrating a wedding, a birthday, or simply
+            Whether you are celebrating a wedding, a birthday, or simply
             brightening your home, we offer a wide variety of floral
-            arrangements that capture the essence of nature's beauty. Our
+            arrangements that capture the essence of natures beauty. Our
             dedicated team is committed to delivering exceptional service and
             stunning designs, ensuring that every bouquet we create tells a
             unique story. Join us in celebrating the magic of flowers!
