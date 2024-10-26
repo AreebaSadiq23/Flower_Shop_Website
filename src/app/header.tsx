@@ -4,7 +4,7 @@ import React from "react";
 const Header = () => {
   return (
     <nav
-      className="bg-transparent backdrop-blur-md shadow-lg py-4 rounded-full mx-auto w-3/4 fixed top-0 left-0 right-0 z-50"
+      className="bg-transparent backdrop-blur-md shadow-lg py-4 rounded-full w-3/4 fixed top-0 left-0 right-0 z-50  max-w-screen-2xl mx-auto"
       style={{ marginTop: "10px" }}
     >
       <div className="flex justify-between items-center">

@@ -3,7 +3,7 @@ import Navbar from "./header";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-green-50">
+    <div className="min-h-screen bg-green-50 max-w-screen-2xl mx-auto">
       {/* Navbar Component */}
       <Navbar />
       <section id="home">
